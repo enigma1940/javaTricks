@@ -65,4 +65,8 @@ public class lines {
             }
         }
     }
+    
+    //MY OBJECTIVE IS TO RETURN AN ARRAY OF STRING
+    //FOR EXAMPLE 
+    // students{{name, age}, {name, age}, ...}
 }
